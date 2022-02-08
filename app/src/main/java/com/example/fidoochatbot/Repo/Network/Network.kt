@@ -1,4 +1,4 @@
-package com.example.fidoochatbot.Network
+package com.example.fidoochatbot.Repo.Network
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

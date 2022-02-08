@@ -1,8 +1,6 @@
 package com.example.fidoochatbot.Repo
 
-import androidx.lifecycle.LiveData
-import androidx.lifecycle.MutableLiveData
-import com.example.fidoochatbot.Network.ChatbotApi
+import com.example.fidoochatbot.Repo.Network.ChatbotApi
 
 class MovieRepository(private val chatbotApi: ChatbotApi) {
 
